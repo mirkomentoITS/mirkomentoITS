@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mirko%20Mento&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20App%20Developer%20|%20ITS%20Student&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mirko%20Mento&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20Mobile%20App%20Developer%20%E2%80%A2%20ITS%20Student&descAlignY=55&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Web+%26+Mobile+App+Developer+(in+training);React+%2F+React+Native+%2F+Node.js+%2F+Flutter;ITS+Academy+ICT+Piemonte+%E2%80%94+Turin,+Italy;Building+real+projects%2C+one+commit+at+a+time" alt="Typing SVG" />
 
