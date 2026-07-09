@@ -6,7 +6,7 @@
 
 [![Location](https://img.shields.io/badge/📍-Turin,_Italy-6D28D9?style=for-the-badge)](https://mirkomento.altervista.org)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mirkomento.altervista.org)
-[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirkoo.mentoo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mentomirko7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirko-mento/)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirkomentoITS)
 
@@ -30,7 +30,7 @@ I focus on shipping real, working software — React/React Native apps, UI/UX in
 🛠️ Focus:       Frontend (React) · Mobile (React Native/Expo/Flutter) · UI/UX (Figma)
 🌱 Exploring:   AI/prompt engineering, automation with n8n
 🗣️ Languages:   Italian (native) · English (B1/B2)
-📫 Reach me:    mirkoo.mentoo@gmail.com
+📫 Reach me:    mentomirko7@gmail.com
 ```
 
 ---
@@ -150,7 +150,7 @@ Low/high-fidelity wireframes and mockups for a rope-access and work-at-height tr
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirkoo.mentoo@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mentomirko7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirko-mento/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirkomentoITS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mirkomento.altervista.org)
