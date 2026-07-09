@@ -61,8 +61,8 @@ I focus on shipping real, working software — React/React Native apps, UI/UX in
 **Tools, Design & AI**
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Figma](https://skillicons.dev/icons?i=figma)
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
