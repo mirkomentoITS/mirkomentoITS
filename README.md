@@ -52,11 +52,15 @@ I focus on shipping real, working software — React/React Native apps, UI/UX in
 ![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Vite](https://skillicons.dev/icons?i=vite)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
 
 **Backend & Database**
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![SQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+
 
 **Tools, Design & AI**
 ![Git](https://skillicons.dev/icons?i=git)
