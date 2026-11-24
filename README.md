@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirko-mento/)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mirkomentoITS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mirkomentoITS&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/mirkomentoITS?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)
 ![Stars](https://img.shields.io/github/stars/mirkomentoITS?style=for-the-badge&color=8B5CF6&labelColor=1a1a2e)
 
